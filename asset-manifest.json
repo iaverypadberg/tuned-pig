@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tuned-pig/static/css/main.78895a0d.css",
+    "main.js": "/tuned-pig/static/js/main.97013f65.js",
+    "static/media/zach.jpg": "/tuned-pig/static/media/zach.5a9bd2e454f7ecef4799.jpg",
+    "static/media/dolomites.jpg": "/tuned-pig/static/media/dolomites.9b6ffed1f6eb477f1758.jpg",
+    "static/media/cloud.jpg": "/tuned-pig/static/media/cloud.6361e084d0e3b5702e27.jpg",
+    "static/media/biking.jpg": "/tuned-pig/static/media/biking.27610d58e51186d1262f.jpg",
+    "index.html": "/tuned-pig/index.html",
+    "main.78895a0d.css.map": "/tuned-pig/static/css/main.78895a0d.css.map",
+    "main.97013f65.js.map": "/tuned-pig/static/js/main.97013f65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78895a0d.css",
+    "static/js/main.97013f65.js"
+  ]
+}
